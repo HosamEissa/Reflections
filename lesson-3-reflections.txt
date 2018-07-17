@@ -7,7 +7,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    because i don't want to get the updates if someone updated the repositry online it might make errors in current commits i have
+    or maybe the repo gets updated with something i don't work on so i don't need it
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
